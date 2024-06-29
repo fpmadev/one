@@ -57,7 +57,7 @@ jobs:
         env:
           CI: true
           SITE_URL: ${{ inputs.site-url }}
-        run: /fpma node final.js
+        run: /fpma  node final.js
 
 # Please do not touch the following action
       - name: Store deployment content
