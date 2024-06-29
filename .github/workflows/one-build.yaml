@@ -32,6 +32,14 @@ jobs:
         with:
           node-version: v14.21.3
 
+        
+
+      - name: Builhh
+        env:
+          CI: true
+          SITE_URL: ${{ inputs.site-url }}
+        run: pwd
+
       - name: Build Node assets
         env:
           CI: true
