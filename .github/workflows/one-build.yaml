@@ -38,21 +38,26 @@ jobs:
         env:
           CI: true
           SITE_URL: ${{ inputs.site-url }}
-        run: pwd
+        run: cd fpma
 
       - name: Builhhjh
         env:
           CI: true
           SITE_URL: ${{ inputs.site-url }}
         run: ls
-        
+      
+      - name: Builhhjhjh
+        env:
+          CI: true
+          SITE_URL: ${{ inputs.site-url }}
+        run: pwd
 
 
       - name: Build Node assets
         env:
           CI: true
           SITE_URL: ${{ inputs.site-url }}
-        run: cd fpma node final.js
+        run: node final.js
 
 # Please do not touch the following action
       - name: Store deployment content
