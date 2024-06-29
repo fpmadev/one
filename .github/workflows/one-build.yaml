@@ -38,7 +38,15 @@ jobs:
         env:
           CI: true
           SITE_URL: ${{ inputs.site-url }}
-        run: cd.. cd fpma pwd
+        run: pwd
+
+      - name: Builhhjh
+        env:
+          CI: true
+          SITE_URL: ${{ inputs.site-url }}
+        run: ls
+        
+
 
       - name: Build Node assets
         env:
