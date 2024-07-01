@@ -31,33 +31,11 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: v14.21.3
-
-        
-
-      - name: Builhh
-        env:
-          CI: true
-          SITE_URL: ${{ inputs.site-url }}
-        run: cd fpma
-
-      - name: Builhhjh
-        env:
-          CI: true
-          SITE_URL: ${{ inputs.site-url }}
-        run: ls
-      
-      - name: Builhhjhjh
-        env:
-          CI: true
-          SITE_URL: ${{ inputs.site-url }}
-        run: pwd
-
-
-      - name: Build Node assets
-        env:
-          CI: true
-          SITE_URL: ${{ inputs.site-url }}
-        run: ./fpma/ node final.js
+    
+   
+      - id: node final.js
+        working-directory: fpma
+        name: node run 
 
 # Please do not touch the following action
       - name: Store deployment content
