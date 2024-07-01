@@ -38,16 +38,7 @@ jobs:
           SITE_URL: ${{ inputs.site-url }}
         run: node final.js
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: v14
-
-      - name: Build Node assets
-        env:
-          CI: true
-          SITE_URL: ${{ inputs.site-url }}
-        run: node -v
+    
 
 # Please do not touch the following action
       - name: Store deployment content
