@@ -32,11 +32,7 @@ jobs:
         with:
           node-version: v14
 
-      - name: Build Node assets
-        env:
-          CI: true
-          SITE_URL: ${{ inputs.site-url }}
-        run: node final.js
+    
 
     
 
