@@ -1,6 +1,6 @@
 {
     "url":{
-    "apiUrl": "https://one-1-s6mv.onrender.com/"
+    "apiUrl": ""
     },
     "users": [
         {"id":"saka","mdp":"kely","role":"admin"},
