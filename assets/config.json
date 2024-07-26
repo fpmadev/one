@@ -1,8 +1,18 @@
 {
     "url":{
-    "apiUrl": ""
+    "apiUrl": "" 
     },
-    "numContact" : "+33 (0) 6 73 93 49",
+    "numContact" : "+33 (0) 6 73 93 32 49",
+    "email" : "fpmamelun@gmail.com",
+    "mpitantsoratra" : {
+        "nom" : "RABE Hanta",
+        "num" : "+33 (0) 7 82 11 68 48"
+    },
+    "filoha" : {
+        "nom": "RAZAFIMANDIMBY Lalao",
+        "num": "+33 (0) 6 73 93 32 49"
+    },
+
     "infos": [
         {"id":"0","description":"Fanompoam-pivavahana isak' Alahady ao amin'ny Eglise Adventiste 69 Avenue Maréchal Foch Dammarie les Lys, manomboka amin'ny 10h30.","title":"CULTE"},
         {"id":"1","description":"Mampahatsiahy antsika mpianakavin'ny finoana. Fa efa nanomboka ny Asa sy Fampaherezana ato amin'ny fiangonana. Ka dia isaky ny Alahady faha efatran'ny volana izany. Koa isika izay maniry izany dia raisina","title":"ASA SY FAMPAHEREZANA"},
