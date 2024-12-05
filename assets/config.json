@@ -2,7 +2,7 @@
     "url":{
     "apiUrl": "https://fpma-melun.org/" 
     },
-    "numContact" : "+33 (0) 6 73 93 32 49",
+    "numContact" : "+33 (0) 6 85 37 69 36",
     "email" : "fpmamelun@gmail.com",
     "mpitantsoratra" : {
         "nom" : "Rtoa RABARISOA Lalasoaniaina",
@@ -17,7 +17,7 @@
         {"id":"0","description":"Fanompoam-pivavahana isak' Alahady ao amin'ny Eglise Adventiste 69 Avenue Maréchal Foch Dammarie les Lys, manomboka amin'ny 10h30.","title":"CULTE"},
         {"id":"1","description":"Mampahatsiahy antsika mpianakavin'ny finoana. Fa efa nanomboka ny Asa sy Fampaherezana ato amin'ny fiangonana. Ka dia isaky ny Alahady faha efatran'ny volana izany. Koa isika izay maniry izany dia raisina","title":"ASA SY FAMPAHEREZANA"},
         {"id":"2","description":"*Par virement bancaire </br> *Par chèque: à l'ordre de FPMA Melun </br> *Par Terminal de paiement électronique (TPE - carte)","title":"RAKITRA - ADIDY SAMIHAFA "},
-        {"id":"3","description":"Miarahaba antsika amin'ny anaran'ny Tompo ! <br>Araka ny efa nampitaina tamintsika nandritra ny raharaham-piangonana dia  alefa amintsika etoana ny fiche d'adhésion 2024. <br>Afaka manao impression isika ka mitondra izany an-tànana any ampiangonana hanolorana ny KARATRA ADIDY 2024. <br><u><a href=\"../../assets/docx/adhesion-2024.docx\" target=\"_blank\" class=\"nav-link px-2 text-body-secondary\">  Fiche d adhesion 2024</a></u>","title":"Fiche d'adhesion 2024"},
+        {"id":"3","description":"Miarahaba antsika amin'ny anaran'ny Tompo ! <br>Araka ny efa nampitaina tamintsika nandritra ny raharaham-piangonana dia  alefa amintsika etoana ny fiche d'adhésion 2025. <br>Afaka manao impression isika ka mitondra izany an-tànana any ampiangonana hanolorana ny KARATRA ADIDY 2025. <br><u><a href=\"../../assets/docx/adhesion-2025.docx\" target=\"_blank\" class=\"nav-link px-2 text-body-secondary\">  Fiche d adhesion 2025</a></u>","title":"Fiche d'adhesion 2025"},
         {"id":"3","description":"Prenez soin les uns des autres. <br/> I Corinthiens 12 <br/> <u><a href=\"../../assets/pdf/calendrier.pdf\" target=\"_blank\" class=\"nav-link px-2 text-body-secondary\"> Péricope de l'année </a></u>","title":"Calendrier des lectures bibliques 2024"}
     ],
     "textBadge1" :     "Fanompoam-pivavahana isak' Alahady ao amin'ny Eglise Adventiste 69 Avenue Maréchal Foch Dammarie les Lys, manomboka amin'ny 10h30. ",
